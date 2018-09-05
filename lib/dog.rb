@@ -3,3 +3,5 @@ class Dog
      puts "The Dog is sitting"
    end
 end
+Snoopy = Dog.new
+Snoopy.sit
